@@ -409,3 +409,11 @@ footer p a:hover {
   color: #9f26aa;
   text-decoration: none;
 }
+
+.tab-content img {
+  -webkit-transition: all .4s ease-in;
+}
+
+.tab-content img:hover {
+  transform: scale(1.2);
+}
